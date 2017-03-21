@@ -1,0 +1,27 @@
+{
+  "name": "compoangularjs",
+  "version": "1.0.0",
+  "description": "Codigo para mostrar el funcionamiento de los componentes en angularjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosnat/compoAngularJP1.git"
+  },
+  "keywords": [
+    "componentes;",
+    "angularjs"
+  ],
+  "author": "Carlos Natera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosnat/compoAngularJP1/issues"
+  },
+  "homepage": "https://github.com/carlosnat/compoAngularJP1#readme",
+  "dependencies": {
+    "connect": "^3.6.0",
+    "serve-static": "^1.12.1"
+  }
+}
