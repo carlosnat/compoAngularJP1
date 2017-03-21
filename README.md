@@ -8,16 +8,16 @@ El presente repositorio en git sirve de ejemplo para el articulo publicado en:
 El repositorio cuenta con distintas ramas, 5 para ser exacto. siguiendo el articulo es mucho mas entendible el objetivo de cada rama.
 
 <h3>Requerimientos:</h3>
-1) Git
-2) NodeJs
+1) Git<br/>
+2) NodeJs<br/>
 
 <h3>Instrucciones de instalación:</h3>
-1) Abra una terminal apuntando al directorio deseado 
-2) clone el repositorio en su maquina local : git clone https://github.com/carlosnat/compoAngularJP1.git
-3) Cambie de directoria a: compuAngularJP1
-4) Ejecute el codigo: npm install. (para instalar los paquetes connect serve-static ) el mini servidor web esta basado en la respuesta en stackoverflow : http://stackoverflow.com/questions/6084360/using-node-js-as-a-simple-web-server
-5) Ejecute el servidor con el comando: node server.js
-*Si el servidor da problemas verifique que las dependecias esten instaladas en la carpeta node_modules, puede reinstalar ejecutando el comando dentro del directorio: npm install connect serve-static
+1) Abra una terminal apuntando al directorio deseado <br/>
+2) clone el repositorio en su maquina local : git clone https://github.com/carlosnat/compoAngularJP1.git<br/>
+3) Cambie de directoria a: compuAngularJP1<br/>
+4) Ejecute el codigo: npm install. (para instalar los paquetes connect serve-static ) el mini servidor web esta basado en la respuesta en stackoverflow : http://stackoverflow.com/questions/6084360/using-node-js-as-a-simple-web-server<br/>
+5) Ejecute el servidor con el comando: node server.js<br/>
+*Si el servidor da problemas verifique que las dependecias esten instaladas en la carpeta node_modules, puede reinstalar ejecutando el comando dentro del directorio: npm install connect serve-static<br/>
 
 
 <h3>Uso del repositorio:</h3>
