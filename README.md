@@ -3,7 +3,7 @@ Codigo demostrativo para el articulo de componentes en angularJs
 
 El presente repositorio en git sirve de ejemplo para el articulo publicado en: 
 
-El repositorio cuenta con distintas ramas, 5 para ser exacto. siguiendo el articulo se mucho mas entendible el objetivo de cada rama.
+El repositorio cuenta con distintas ramas, 5 para ser exacto. siguiendo el articulo es mucho mas entendible el objetivo de cada rama.
 
 Requerimientos:
 1) Git
@@ -18,17 +18,24 @@ Instrucciones de instalación:
 *Si el servidor da problemas verifique que las dependecias esten instaladas en la carpeta node_modules, puede reinstalar ejecutando el comando dentro del directorio: npm install connect serve-static
 
 Uso del repositorio:
-El repositorio cuenta con 5 ramas. para ir viajando entre ellas utilizar el comando
+
+El repositorio cuenta con 5 ramas. Para ir viajando entre ellas debe utilizar el comando:
+
 git checkout <nombreDeRama> ejemplo: git checkout paso2
 
-utilizando el comando podra ir explorando junto al articulo la explicación del uso basico de componentes en angularJs
+utilizando el comando podra ir explorando junto al articulo la explicación del uso basico de componentes en angularJs.
 
 
 Explicación de ramas:
+
 Cada rama tiene un objetivo los cuales son:
 
 Rama -> paso1: Setup del ambiente de prueba.
+
 Rama -> paso2: Planteamiento de caso de estudio (tres vistas con sus respectivas rutas).
+
 Rama -> paso3: Planteamiento de caso de estudio parte 3. Un formulario comun que captura datos de un usario en las tres vistas.
+
 Rama -> paso4: Creación y uso de directiva en angularJs (se plantea el caso mas simple posible para el mejor entendimiento).
+
 Rama -> paso5: Uso de la directiva para desplegar el formulario en las tres vistas, y una pqueña actualización para observar la ventaja que presenta el uso de directivas.
