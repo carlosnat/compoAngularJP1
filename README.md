@@ -5,7 +5,7 @@ Codigo demostrativo para el articulo de componentes en angularJs
 
 El presente repositorio en git sirve de ejemplo para el articulo publicado en: 
 
-<a href="https://www.urbamapp.com/directivas-en-angularjs-la-pieza-clave-para-el-desarrollo-modular/">Blog Urbamapp</a>
+<a href="https://www.urbamapp.com/directivas-en-angularjs-la-pieza-clave-para-el-desarrollo-modular/">DIRECTIVAS EN ANGULARJS: LA PIEZA CLAVE PARA EL DESARROLLO MODULAR</a>
 
 El repositorio cuenta con distintas ramas, 5 para ser exacto. siguiendo el articulo es mucho mas entendible el objetivo de cada rama.
 
